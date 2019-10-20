@@ -11,6 +11,8 @@ fields:
 - type: datetime
   name: date
   label: date
+  default: now
+  hidden: true
 - type: textarea
   name: summary
   label: summary
@@ -18,4 +20,5 @@ fields:
   name: tags
   label: tags
 pages:
+- blog/test22222222222222.md
 - blog/testttttt1.md
