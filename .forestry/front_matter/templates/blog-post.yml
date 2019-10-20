@@ -15,7 +15,7 @@ fields:
   default: now
   hidden: true
   config:
-    export_format: YYYY-MM-DD
+    export_format: MMMM D, Y
 - type: textarea
   name: summary
   label: summary
@@ -23,8 +23,8 @@ fields:
   name: tags
   label: tags
 pages:
-- blog/test5555.md
-- blog/test44444444444.md
 - blog/test3333333333333333333333.md
 - blog/test22222222222222.md
+- blog/test5555.md
+- blog/test44444444444.md
 - blog/testttttt1.md
