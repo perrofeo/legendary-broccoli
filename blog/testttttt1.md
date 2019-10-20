@@ -7,3 +7,4 @@ tags:
 - test
 
 ---
+![](/images/blog_bg_3.jpg)
