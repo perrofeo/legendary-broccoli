@@ -8,7 +8,7 @@ fields:
 - type: text
   name: path
   label: path
-  hidden: true
+  hidden: false
 - type: datetime
   name: date
   label: date
